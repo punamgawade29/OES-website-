@@ -1,0 +1,44 @@
+body{
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+  height:55px;
+   width: 100%;
+   color:white;
+  font-family:'Timesnewromman';
+   padding-left:20px;
+   display:flex;
+  background-color:rgb(26, 140, 255 ,1);
+  
+   
+}
+
+.footer h3{
+	margin-left:205px;
+}
+#a1{
+	margin-left:50px;
+}
+
+div.scrollmenu {
+  background-color:white;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: blue;
+}
+
